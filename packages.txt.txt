@@ -1,0 +1,4 @@
+gdal
+proj-bin
+geos
+libspatialindex
