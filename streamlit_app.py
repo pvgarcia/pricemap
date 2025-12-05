@@ -134,7 +134,7 @@ DEFAULT_OFFSETS = {
     "HB_WEST": (-80, -10),
     "MICHIGAN.HUB": (10, 60),
     "INDIANA.HUB": (-25, -40),
-    "SPPSOUTH_HUB": (-130, 13),
+    "SPPSOUTH_HUB": (-130, 10),
     "SPPNORTH_HUB": (-90, 12),
     "AEP": (0, 50),
     "ILLINOIS.HUB": (-30, 0),
