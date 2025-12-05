@@ -788,7 +788,7 @@ with st.sidebar:
 
 
 if fin_file is None:
-    st.info("Upload your Financials file to begin.")
+    st.info("Upload the Developer Financials file to begin.")
     st.stop()
 
 if not selected_isos:
